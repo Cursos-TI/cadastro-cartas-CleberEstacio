@@ -30,16 +30,16 @@ int main() {
   scanf("%s\n", &cidade);
 
   printf("Populacao: \n");
-  scanf("%i", &populacao);
+  scanf("%i.", &populacao);
   
   printf("Area: \n");
-  scanf("%f", &area);
+  scanf("%f.", &area);
   
   printf("Pib: \n");
-  scanf("%f", &pib);
+  scanf("%f.", &pib);
 
   printf("Numero de pontos turisticos: \n");
-  scanf("%d", &pontos_turisticos);
+  scanf("%d.", &pontos_turisticos);
   
 
   
